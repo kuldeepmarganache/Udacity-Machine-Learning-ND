@@ -1,4 +1,4 @@
-# Machine Learning Engineer Nanodegree
+# Machine Learning Engineer Nanodegree - Assignment Work
 ## Introduction and Foundations
 ## Project: Titanic Survival Exploration
 
